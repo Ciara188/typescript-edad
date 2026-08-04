@@ -1,0 +1,6 @@
+-Descripción del proyecto: Proyecto sobre primeros pasos de TypeScript. 
+-Tecnologías utilizadas: Typescript. 
+-Instrucciones de instalación y uso: Instalar VS para su edición. 
+-Ejemplos de uso: Proyecto de TypeScript para un desarrollador jr. 
+-Capturas de pantalla (si es aplicable): no aplicable. 
+-Contribuciones (si es un proyecto colaborativo): no es un proyecto colaborativo.
